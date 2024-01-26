@@ -45,5 +45,4 @@ function CardForm({ card, handleChange }) {
   );
 }
 
-export default CardForm
-;
+export default CardForm;

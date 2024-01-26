@@ -86,6 +86,7 @@ function Study() {
               </div>
             );
           }
+          return null;
         })}
       </div>
     );
